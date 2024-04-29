@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"server","l":"Cliente"},{"p":"banco","l":"DatabaseConnection"},{"p":"mensagens","l":"MensagemLogar"},{"p":"mensagens","l":"MensagemRegistrar"},{"p":"server","l":"Server"},{"p":"banco","l":"TesteBanco"},{"p":"dao","l":"UserDAO"},{"p":"model","l":"Usuario"}];updateSearchResults();
